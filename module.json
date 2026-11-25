@@ -45,7 +45,7 @@
   "flags": {
     "rutz-studio": {
       "derivedFrom": "pf2e-kr-hud",
-      "builtFrom": "3.1.0"
+      "builtFrom": "3.2.0"
     }
   },
   "url": "https://github.com/Rutz179/rutz-discord-table",
